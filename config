@@ -1,0 +1,14 @@
+#configuration for you apps
+#应用通用配置
+_address=
+_port=80
+_open_ssl=false
+_port_websocket=8443
+
+#docker services image version
+#docker镜像版本配置
+_one_app=v5.1.200929-548
+_one_nginx=v2.5.6-200928-143
+_one_redis=v1.0
+_one_ws=v2.4
+_one_mysql=v1.2
